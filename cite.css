@@ -1,0 +1,56 @@
+.card {
+  padding: 30px;
+  border-radius: 4px;
+  margin: 100px 200px;
+  width: 300px;
+}
+  
+.img1 {
+    min-height: 500px;
+    background-image: url(http://previews.123rf.com/images/gajus/gajus1502/gajus150200063/36772694-Top-view-of-two-business-people-a-man-and-woman-analysing-a-business-graph-on-a-tablet-computer-as-t-Stock-Photo.jpg);
+    background-size: cover;
+    margin-top: 20px;
+}
+
+.img2 {
+  min-height: 500px;
+  background-image: url(http://liveinportland.net/wp-content/uploads/2012/12/Cedar-Hills-Beaverton-OR-Google-Maps.jpg);
+  background-size: cover;
+}
+
+.blue-row{
+    background-color: royalblue;
+    min-height: 400px;
+}
+  
+.card2 {
+  padding: 10px;
+  border-radius: 4px;
+  margin: 70px 10px;
+  color: white;
+}
+
+.sm{
+  font-size: 10px;
+}
+
+.fa{
+  color: white;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.card3{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.black{
+  background-color: black;
+  min-height: 120px;
+}  
+
+.bt-text{
+  color: white;
+  margin-top: 50px;
+}
