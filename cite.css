@@ -1,21 +1,23 @@
-.card {
-  padding: 30px;
-  border-radius: 4px;
-  margin: 0px 200px 50px;
-  width: 300px;
-}
+
   
 .the-bridge{
     background-image: url('bridge.jpg');
     background-attachment: fixed;
-    min-height: 600px;
+    min-height: 400px;
 }
   
 .card2 {
   padding: 10px;
   border-radius: 4px;
   margin: 70px 10px;
-  color: white;
+  color: black;
+  transition: transform 1s;
+
+}
+.card2:hover{
+    transform: scale(1.2);
+    transition: transform 1s;
+    position: relative;
 }
 
 .text{
@@ -42,4 +44,8 @@
   background-size: cover;
   color: white;
   min-height: 700px;
+}
+
+.paisley{
+  background-image: url('paisley.png'); 
 }
