@@ -6,7 +6,7 @@
 }
   
 .the-bridge{
-    background-image: url(http://www.pixelstalk.net/wp-content/uploads/2015/01/Stamford-Bridge-Chelsea-stadium-wallpaper-HD.jpg);
+    background-image: url('bridge.jpg');
     background-attachment: fixed;
     min-height: 600px;
 }
