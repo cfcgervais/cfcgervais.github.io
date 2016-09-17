@@ -44,8 +44,11 @@
   background-size: cover;
   color: white;
   min-height: 700px;
+  font-family: 'Josefin Sans', sans-serif;
+
 }
 
 .paisley{
   background-image: url('paisley.png'); 
 }
+
