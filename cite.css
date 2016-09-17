@@ -1,21 +1,20 @@
-
-  
 .the-bridge{
     background-image: url('bridge.jpg');
     background-attachment: fixed;
-    min-height: 400px;
+    min-height: 500px;
 }
   
 .card2 {
   padding: 10px;
   border-radius: 4px;
-  margin: 70px 10px;
+  margin: 120px 10px;
   color: black;
   transition: transform 1s;
+  font-family: 'Josefin Sans', sans-serif;
 
 }
 .card2:hover{
-    transform: scale(1.2);
+    transform: scale(1.3);
     transition: transform 1s;
     position: relative;
 }
@@ -25,20 +24,10 @@
 }
 
 .card3{
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-bottom: 30px;
+  font-family: 'Josefin Sans', sans-serif;
 }
-
-.black{
-  background-color: black;
-  min-height: 120px;
-}  
-
-.bt-text{
-  color: white;
-  margin-top: 50px;
-}
-
+  
 .jumbotron{
   background-image: url(http://dbijapkm3o6fj.cloudfront.net/resources/13461,4,1,6,4,0/-4397-/20140923124044/4.-a-modern-marvel-of-golf-awaits.jpeg);
   background-size: cover;
@@ -51,4 +40,11 @@
 .paisley{
   background-image: url('paisley.png'); 
 }
+
+.fuck-this{
+  margin-top: -30px;
+}
+
+
+  
 
