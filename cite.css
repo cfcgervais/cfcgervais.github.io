@@ -2,6 +2,7 @@
     background-image: url('bridge.jpg');
     background-attachment: fixed;
     min-height: 500px;
+    
 }
   
 .card2 {
@@ -34,7 +35,8 @@
   color: white;
   min-height: 700px;
   font-family: 'Josefin Sans', sans-serif;
-
+  
+  
 }
 
 .paisley{
@@ -44,6 +46,11 @@
 .fuck-this{
   margin-top: -30px;
 }
+
+.yay{
+  position: fixed;
+}
+
 
 
   
